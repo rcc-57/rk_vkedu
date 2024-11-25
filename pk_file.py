@@ -3,6 +3,6 @@ a = int(input())
 b = int(input())
 
 for i in range(N):
-    print(a ** i - b)
+    print(b ** i - a)
 
 
