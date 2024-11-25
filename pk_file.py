@@ -1,9 +1,10 @@
 N = 10
 a = int(input())
+b = int(input())
 
 for i in range(N):
-    print(a**i)
+    print(a**i, b**i)
 
-# вывод числа до N-ой степени
+# вывод чисел до N-ой степени
 
 
