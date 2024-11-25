@@ -5,7 +5,7 @@ b = int(input())
 for i in range(N):
     print(b ** i - a)
 
-print("Elets")
+print("Elets City")
 
 
 
