@@ -1,12 +1,9 @@
+N = 10
 a = int(input())
-b = int(input())
 
-# нашли большеее => из него вычитаем меньшее
+for i in range(N):
+    print(a**i)
 
-if a >= b:
-    print(a*a - b*b)
-else:
-    print(b*b - a*a)
-
+# вывод числа до N-ой степени
 
 
